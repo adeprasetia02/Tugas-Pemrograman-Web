@@ -1,0 +1,9 @@
+
+
+NAMA    : ADE PRASETIA
+
+
+KELAS   : TI 20 B1
+
+
+NIM     : 312010208    

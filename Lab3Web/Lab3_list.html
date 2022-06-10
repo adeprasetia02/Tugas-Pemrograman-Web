@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTML Lanjutan</title>
+</head>
+<body>
+<header>
+<h1>Membuat Form</h1>
+</header>
+<form action="proses.php" method="post">
+    <fieldset>
+    <legend>Data Pelanggan</legend>
+    <p>
+    <label for="nama">Nama</label>
+    <input type="text" id="nama" name="nama">
+    </p>
+    <p>
+    <label for="alamat">Alamat</label>
+    <textarea id="alamat" name="alamat" cols="20" rows="3"></textarea>
+    </p>
+
+    <P>
+        <label>Cabang</label>
+        <select name="Warung" size="5" multiple="multiple">
+            <option value="Cikarang">Cikarang</option>
+            <option value="Bekasi">Bekasi</option>
+            <option value="cifest">cifest</option>
+            <option value="Jakarta">Jakarta</option>
+            <option value="Kudus">Kudus</option>
+        </select>
+    </P>
+
+    <P>
+        <label>Data Barang</label>
+        <select name="barang">
+            <option value="pecel lele">pecel lele</option>
+            <option value="ayam goreng">ayam goreng</option>
+            <option value="ikan bakar">ikan bakar</option>
+            <option value="ikan saua tiram">ikan saus tirem</option>
+            <option value="es teh">es teh</option>
+        </select>
+    </P>
+
+
+    <p>
+    <label>Jenis Kelamin</label>
+    <input id="jk_l" type="radio" name="kelamin" value="L" /><label
+    for="jk_l">Laki-laki</label>
+    <input id="jk_p" type="radio" name="kelamin" value="P" /><label
+</body>
+</html>
+for="jk_p">Perempuan</label>
+</p>
+<p><input type="submit" value="Login"></p>
+</fieldset>
+</form>
