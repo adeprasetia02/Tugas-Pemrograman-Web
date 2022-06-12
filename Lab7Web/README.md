@@ -17,13 +17,13 @@ Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/
 
-![menambahkan file baru](Gambar/Gambar1.png)
+![menambahkan file baru](Gambar/Gambar3.PNG)
 
 **PHP Dasar**
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
 kode seperti berikut.
 
-![menambahkan file baru](Gambar/Gambar2.png)
+![menambahkan file baru](Gambar/Gambar2.PNG)
 
 **Modul Praktikum Pemrograman Web**
 
@@ -31,7 +31,8 @@ kode seperti berikut.
 Kemudian untuk mengakses hasilnya melalui URL:
 http://localhost/lab7_php_dasar/php_dasar.php
 
-![menambahkan file baru](Gambar/Gambar3.png)
+
+![menambahkan file baru](Gambar/Gambar3.PNG)
 
 Variable PHP
 Menambahkan variable pada program.
@@ -39,7 +40,7 @@ Menambahkan variable pada program.
 ![menambahkan file baru](Gambar/Gambar12.png)
 
 
-![menambahkan file baru](Gambar/Gambar4.png)
+![menambahkan file baru](Gambar/Gambar4.PNG)
 
 **Predefine Variable $_GET**
 
