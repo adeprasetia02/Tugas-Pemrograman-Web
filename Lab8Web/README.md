@@ -75,7 +75,7 @@ Buat file baru dengan nama **tambah.php**
 **Menghapus Data (Delete)**
 Buat file baru dengan nama **hapus.php**
 
-![menambahkan file baru](gambar/fille11.png)
+![menambahkan file baru](gambar/file11.png)
 
 
 
