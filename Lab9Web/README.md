@@ -13,4 +13,4 @@ Buat file baru dengan nama "header.php"
 
 Lalu buat script seperti berikut.
 
-![p](gambar/gambar1.PNG)
+![p](image/gambar1.PNG)
